@@ -9,4 +9,4 @@
 * Demo: https://canvas30.github.io/
 * Время выполнения: 8 часов
 
-* мой код
+* мой код https://enigmer2.github.io/Task-7.-Fun-with-HTML5-Canvas/
