@@ -1,5 +1,21 @@
-*{
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  user-select: none;
+}
+h1 {
+  padding: 10px;
+}
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 10px;
+  user-select: none;
+  padding: 10px;
 }
